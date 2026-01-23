@@ -10,7 +10,7 @@ it may still provide useful information for "casual" people.
 # Content
 - [Software](#software)
   - [Browsers](#browsers)
-- [Avoid AI Citationsi](#avoid-ai-citations)
+- [Avoid AI Citations](#avoid-ai-citations)
 - [Avoid AI Crawling](#avoid-ai-crawling)
 - [UBlock Filters](#ublock-filters)
 - [Clear AI Guidelines](#clear-ai-guidelines)
