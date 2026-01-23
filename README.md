@@ -43,6 +43,10 @@ Currently hard to do, but here are some known options:
   As of today, [Codeberg.org](https://codeberg.org) appears to be fairly safe, while
   [Github.com integrates Co-Pilot AI deeply](https://github.com).
 
+## UBlock Filters
+These are some filters for blocking AI buttons / content:
+- [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
+
 ## Clear AI Guidelines
 
 Although it's unlikely that the AI enthusiast are going to follow a guideline / coc, it's still a viable
