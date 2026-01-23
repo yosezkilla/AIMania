@@ -1,9 +1,11 @@
 # AIMania
 **This repository is a collection of resources that might help with avoiding gen AI.**
 It was written by coders for coders, as an attempt to help others as an unpaid volunteer effort.
-You'll likely find mistakes, please [fix them](
-https://github.com/Vxrpenter/AIMania/pulls
-).
+You'll likely find mistakes, please [fix them](https://github.com/Vxrpenter/AIMania/pulls).
+
+The primary purpose is to provide information, fast and reliably. We link to other projects and
+try to always provide the data sources. Even though this repository is primarily meant for developers,
+it may still provide useful information for "casual" people.
 
 # Content
 - [Software](#software)
