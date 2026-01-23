@@ -35,7 +35,7 @@ Currently hard to do, but here are some known options:
   to understand that AI companies are not forced to follow this file, they might, but could also ignore it. Most big companies will respect
   it but you never know.
 
-# Clear AI Guidelines
+## Clear AI Guidelines
 
 Although it's unlikely that the AI enthusiast are going to follow a guideline / coc, it's still a viable
 option to drive away the few people who respect rules set up by a maintainer.
