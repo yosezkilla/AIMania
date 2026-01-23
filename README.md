@@ -31,3 +31,11 @@ Currently hard to do, but here are some known options:
 - [Anubis](https://github.com/TecharoHQ/anubis). Sadly, using this will likely unlist
   all protected pages from web searches, too. But the landing page could be
   excluded, for example.
+
+# Clear AI Guidelines
+
+Although it's unlikely that the AI enthusiast are going to follow a guideline / coc, it's still a viable
+option to drive away the few people who respect rules set up by a maintainer.
+
+We have some examples for how such a Code Of Conduct might looks:
+- [Basic Anti AI COC](https://github.com/Vxrpenter/AIMania/blob/main/templates/git/CODE_OF_CONDUCT.md)
