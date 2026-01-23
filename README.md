@@ -77,4 +77,4 @@ We have some examples for how such a Code Of Conduct might look like:
 - [Basic Anti AI COC](https://github.com/Vxrpenter/AIMania/blob/main/examples/git/CODE_OF_CONDUCT.md)
 
 There are also snippets that might inspire an anti AI `README.md` note:
-- [No AI due to legal reasons](https://github.com/Vxrpenter/AIMania/blob/main/templates/readme/ai-legal.md)
+- [No AI due to legal reasons](https://github.com/Vxrpenter/AIMania/blob/main/examples/readme/ai-legal.md)
