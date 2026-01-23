@@ -1,3 +1,11 @@
+*(Note: This is taken from
+https://codeberg.org/Horse64/core.horse64.org/src/branch/main/docs/How%20to%20Contribute.md#why-ai-contributions-are-not-allowed
+Use it at your own risk, since the text wasn't originally written to be a template
+for other projects. The `DCO` refers to the concept popularized by the [Linux
+Foundation](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin). This
+text isn't legal advice, also see note below.)*
+
+
 # Why AI contributions are not allowed
 
 For legal reasons, **we absolutely cannot accept any contributions
@@ -5,7 +13,7 @@ made by generative AI** since it might put the projects ecosystem
 into uncertainty and it seems unethical. (This isn't legal advice
 or a request for legal advice.)
 
-To reduce risks, you are requires to state if
+To reduce risks, `<project name>`'s DCO requires you to state if
 you made the contribution and can guarantee it's not plagiarized
 whenever you contribute. But with the legal situation around AI,
 many industry analysists seem to suspect this isn't compatible with
