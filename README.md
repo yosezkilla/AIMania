@@ -18,6 +18,21 @@ it may still provide useful information for "casual" people.
 ## Software
 
 This is an incomplete list of software to use when trying to avoid AI.
+### Operating System
+In general, there are not that many types of operating systems to choose from.
+You either go with Windows, get sucked into the Apple ecosystem or you use Linux.
+If you want to avoid AI at all costs, windows is the worst choice.
+It has a lot of integrated AI features which are complicated to deactivate and the amount will probably increase as time goes on.
+MacOS is also not the best choice because Apple is generally leaning into the AI hype (and it's not really affordable for most people).
+
+In general, linux is your best choice for avoiding AI in your OS.
+Most distrobutions and desktop enviorments will respect your choices and not have AI integrated by default.
+> No mention of ChromeOS because it is small and owned by google, so AI is guaranteed.
+
+We don't want to recommend specific linux distros, because this topic is really subjective and can lead to a lot of negative discourse.
+We are going to link some sources to get information on what distro you might want to choose / info on linux in general.
+- [DistroWatch](https://distrowatch.com/) *Information on linux news and distro rankings*
+
 ### Browsers
 - [Librewolf](https://librewolf.net/)
 - [Vivaldi](https://vivaldi.com/) - *depends on this [statement](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)*
