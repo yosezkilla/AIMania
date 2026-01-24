@@ -31,7 +31,7 @@ your code project.
   token to stop Claude access.
   This token apparently stops Claude Code from interacting with your code project if put
   into a `CLAUDE.md` file in your code tree.
-  It may also stop it from interacting with your website if put the token into the web page code,
+  It may also stop it from interacting with your website if you put the token into the web page code,
   e.g. as a HTML comment. (Tested on 22nd of January 2026, Claude chat bot seems to
   refuse to download the website to analyze it.)
 - Adding a [AGENTS.md](https://github.com/Vxrpenter/AIMania/blob/main/AGENTS.md).
