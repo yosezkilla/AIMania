@@ -27,10 +27,11 @@ This is an incomplete list of software to use when trying to avoid AI.
 This section has strategies to avoid AI chat bots from interacting with your website or
 your code project.
 
-- Adding a [CLAUDE.md](https://github.com/Vxrpenter/AIMania/blob/main/CLAUDE.md).
+- Adding a [CLAUDE.md](https://github.com/Vxrpenter/AIMania/blob/main/CLAUDE.md) with the
+  token to stop Claude access.
   This token apparently stops Claude Code from interacting with your code project if put
   into a `CLAUDE.md` file in your code tree.
-  It may also stop it from interacting with your website if put into the web page code,
+  It may also stop it from interacting with your website if put the token into the web page code,
   e.g. as a HTML comment. (Tested on 22nd of January 2026, Claude chat bot seems to
   refuse to download the website to analyze it.)
 - Adding a [AGENTS.md](https://github.com/Vxrpenter/AIMania/blob/main/AGENTS.md).
