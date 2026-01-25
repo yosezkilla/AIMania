@@ -95,6 +95,16 @@ easiest solution most of the times is reloading the page:
 - [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
 - [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
 
+## Avoid AI Scraping
+
+This section provides information on how to avoid AI from scraping your data.
+- [Glaze](https://glaze.cs.uchicago.edu/index.html) is supposedly able to protect an artists artstyle from AI scraping, by slightly altering the image.
+  They claim that these changes are not visible to the human eye, but can project the artstyle from being scraped.
+- [Nightsade](https://nightshade.cs.uchicago.edu/) is supposedly able to poison AI data sets, by altering the image slightly, not noticeable to the human eye.
+> Sources:
+> - https://www.nytimes.com/2023/02/13/technology/ai-art-generator-lensa-stable-diffusion.html
+> - https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/
+
 ## Clear AI Guidelines
 
 Although it's unlikely that the AI enthusiast are going to follow a guideline / coc,
