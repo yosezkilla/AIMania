@@ -13,6 +13,7 @@ it may still provide useful information for "casual" people.
   - [Browsers](#browsers)
 - [Avoid AI Citations](#avoid-ai-citations)
 - [Avoid AI Crawling](#avoid-ai-crawling)
+- [Poison AI Scrapers](#poison-ai-scrapers)
 - [UBlock Filters](#ublock-filters)
 - [Clear AI Guidelines](#clear-ai-guidelines)
 
@@ -77,8 +78,6 @@ Currently hard to do, but here are some known options:
   all protected pages from web searches, too. But the landing page could be
   excluded, for example.
   - Anubis can be configured to [allow well-behaved bots and legitimate automation scenarios](https://anubis.techaro.lol/docs/admin/policies/) if you so desire
-- [Iocaine](https://iocaine.madhouse-project.org/). A lightweight garbage generator that aims to keep AI crawlers away from heavy operations, and instead traps them in a maze made to poison the dataset.
-  - The default handler does a lot, but the author also provides their own handler in the form of [Nam-Shub of Enki](https://3.nam-shub-of-enki.iocaine.madhouse-project.org/index.html).
 - Blocking crawlers using [robots.txt](https://github.com/Vxrpenter/AIMania/blob/main/examples/robots.txt). It's important
   to understand that AI companies are not forced to follow this file, they might, but could also ignore it. Most big companies will respect
   it but you never know.
@@ -94,6 +93,22 @@ you may experience a degraded experience because certain other buttons might not
 easiest solution most of the times is reloading the page:
 - [GitHub Copilot Filters](https://codeberg.org/rossabaker/github-copilot-filters/src/branch/main/filters.txt)
 - [Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)
+
+## Poison AI Scrapers
+
+This section has ideas on how to poison the data of AI scrapers
+once they snuck past blocking mechanisms, to disincentivize scraping.
+
+- [Glaze](https://glaze.cs.uchicago.edu/index.html) is supposedly able to protect an artists artstyle from AI scraping, by slightly altering the image.
+  They claim that these changes are not visible to the human eye, but can project the artstyle from being scraped.
+
+- [Nightshade](https://nightshade.cs.uchicago.edu/) is supposedly able to poison AI data sets, by altering the image slightly, not noticeable to the human eye.
+> Sources:
+> - https://www.nytimes.com/2023/02/13/technology/ai-art-generator-lensa-stable-diffusion.html
+> - https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/
+
+- [Iocaine](https://iocaine.madhouse-project.org/). A lightweight garbage generator that aims to keep AI crawlers away from heavy operations, and instead traps them in a maze made to poison the dataset.
+  - The default handler does a lot, but the author also provides their own handler in the form of [Nam-Shub of Enki](https://3.nam-shub-of-enki.iocaine.madhouse-project.org/index.html).
 
 ## Clear AI Guidelines
 
